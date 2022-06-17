@@ -5,32 +5,34 @@ import sweet1 from '../../images/sweet3.jpg';
 import sweet2 from '../../images/sweet-2.jpg';
 import sweet3 from '../../images/sweet-3.jpg';
 
+import bottle1 from '../../images/earthen-bottle.jpg';
+
 export const productData = [
   {
-    img: product1,
-    alt: 'Pizza',
-    name: 'Supreme Pizza',
+    img: bottle1,
+    alt: 'Perfume',
+    name: 'Perfume Jasmin',
     desc:
       'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$19.99',
+    price: 'R$19.99',
     button: 'Add to Cart'
   },
   {
     img: product2,
-    alt: 'Pizza',
+    alt: 'Perfume',
     name: 'Hawaiian Paradise',
     desc:
       ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$16.99',
+    price: 'R$16.99',
     button: 'Add to Cart'
   },
   {
     img: product3,
-    alt: 'Pizza',
+    alt: 'Perfume',
     name: 'Veggie Overload',
     desc:
       ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$14.99',
+    price: 'R$14.99',
     button: 'Add to Cart'
   }
 ];
@@ -42,7 +44,7 @@ export const productDataTwo = [
     name: 'Doughlicious',
     desc:
       'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
-    price: '$9.99',
+    price: 'R$9.99',
     button: 'Add to Cart'
   },
   {
@@ -51,7 +53,7 @@ export const productDataTwo = [
     name: 'Caramel Wonder',
     desc:
       'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
-    price: '$12.99',
+    price: 'R$12.99',
     button: 'Add to Cart'
   },
   {
@@ -60,7 +62,7 @@ export const productDataTwo = [
     name: 'Brownie Bunch',
     desc:
       'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
-    price: '$9.99',
+    price: 'R$9.99',
     button: 'Add to Cart'
   }
 ];

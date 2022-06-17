@@ -1,4 +1,5 @@
 import React from 'react';
+import { AiOutlineShoppingCart } from 'react-icons/ai';
 import {
   ProductsContainer,
   ProductWrapper,
@@ -25,7 +26,18 @@ const Products = ({ heading, data }) => {
                 <ProductTitle>{product.name}</ProductTitle>
                 <ProductDesc>{product.desc}</ProductDesc>
                 <ProductPrice>{product.price}</ProductPrice>
-                <ProductButton>{product.button}</ProductButton>
+                <ProductButton style={{
+                  display: "flex",
+                  justifyContent: "center",
+                  justifyItems: "center",
+                  alignContent: "center",
+                  alignItems: "center",
+                  justifySelf: "center"
+                }}>
+                  {product.button}
+                  {' '}
+                  <AiOutlineShoppingCart />
+                </ProductButton>
               </ProductInfo>
             </ProductCard>
           );
