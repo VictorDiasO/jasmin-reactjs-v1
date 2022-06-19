@@ -6,6 +6,7 @@ import sweet2 from '../../images/sweet-2.jpg';
 import sweet3 from '../../images/sweet-3.jpg';
 
 import bottle1 from '../../images/earthen-bottle.jpg';
+import bottle2 from '../../images/nomad-bottle.jpg';
 
 export const productData = [
   {
@@ -18,7 +19,7 @@ export const productData = [
     button: 'Add to Cart'
   },
   {
-    img: product2,
+    img: bottle2,
     alt: 'Perfume',
     name: 'Hawaiian Paradise',
     desc:
@@ -27,7 +28,7 @@ export const productData = [
     button: 'Add to Cart'
   },
   {
-    img: product3,
+    img: bottle1,
     alt: 'Perfume',
     name: 'Veggie Overload',
     desc:
@@ -39,7 +40,7 @@ export const productData = [
 
 export const productDataTwo = [
   {
-    img: sweet2,
+    img: bottle2,
     alt: 'Donuts',
     name: 'Doughlicious',
     desc:
@@ -48,7 +49,7 @@ export const productDataTwo = [
     button: 'Add to Cart'
   },
   {
-    img: sweet3,
+    img: bottle1,
     alt: 'Ice Cream',
     name: 'Caramel Wonder',
     desc:
