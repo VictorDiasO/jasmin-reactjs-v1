@@ -56,14 +56,5 @@ export const productDataTwo = [
       'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
     price: 'R$12.99',
     button: 'Add to Cart'
-  },
-  {
-    img: sweet1,
-    alt: 'Brownie',
-    name: 'Brownie Bunch',
-    desc:
-      'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
-    price: 'R$9.99',
-    button: 'Add to Cart'
   }
 ];

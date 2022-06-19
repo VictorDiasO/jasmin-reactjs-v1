@@ -38,8 +38,8 @@ export const HeroItems = styled.div`
 export const HeroH1 = styled.h1`
   font-size: clamp(2.5rem, 10vw, 5rem);
   margin-bottom: 1rem;
-  box-shadow: 3px 5px #e9ba23;
-  letter-spacing: 3px;
+  box-shadow: 3px 5px #6a0dad;
+  letter-spacing: 5px;
   color: #000;
 `;
 
@@ -53,11 +53,11 @@ export const HeroBtn = styled.button`
   padding: 1rem 4rem;
   border: none;
   background: #e31837;
-  color: #000;
+  color: #fff;
   transition: 0.2s ease-out;
 
   &:hover {
-    background: #ffc500;
+    background: #6a0dad;
     transition: 0.2s ease-out;
     cursor: pointer;
     color: #000;

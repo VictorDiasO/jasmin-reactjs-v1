@@ -26,7 +26,7 @@ export const ProductImg = styled.img`
   height: 300px;
   min-width: 300px;
   max-width: 100%;
-  box-shadow: 8px 8px #fdc500;
+  box-shadow: 8px 8px #6a0dad;
 `;
 
 export const ProductsHeading = styled.h1`
@@ -67,7 +67,7 @@ export const ProductButton = styled.button`
   transition: 0.2 ease-out;
 
   &:hover {
-    background: #ffc500;
+    background: #6a0dad;
     transition: 0.2s ease-out;
     cursor: pointer;
     color: #000;
