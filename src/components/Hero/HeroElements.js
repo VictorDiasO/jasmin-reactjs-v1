@@ -43,16 +43,22 @@ export const HeroH1 = styled.h1`
   color: #000;
 `;
 
+// export const HeroP = styled.p`
+//   font-size: clamp(2rem, 2.5vw, 3rem);
+//   margin-bottom: 2rem;
+// `;
+
 export const HeroP = styled.p`
-  font-size: clamp(2rem, 2.5vw, 3rem);
+  font-size: clamp(1.5rem, 2.0vw, 3rem);
   margin-bottom: 2rem;
+  /* letter-spacing: px; */
 `;
 
 export const HeroBtn = styled.button`
   font-size: 1.4rem;
   padding: 1rem 4rem;
   border: none;
-  background: #e31837;
+  background: #6a0dad;
   color: #fff;
   transition: 0.2s ease-out;
 

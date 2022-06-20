@@ -12,7 +12,7 @@ export const productData = [
   {
     img: bottle1,
     alt: 'Perfume',
-    name: 'Perfume Jasmin',
+    name: 'Jasmin Perfume',
     desc:
       'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
     price: 'R$19.99',
@@ -20,8 +20,8 @@ export const productData = [
   },
   {
     img: bottle2,
-    alt: 'Perfume',
-    name: 'Hawaiian Paradise',
+    alt: 'Jasmin Perfume',
+    name: 'Jasmin Paradise',
     desc:
       ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
     price: 'R$16.99',
@@ -29,8 +29,8 @@ export const productData = [
   },
   {
     img: bottle1,
-    alt: 'Perfume',
-    name: 'Veggie Overload',
+    alt: 'Jasmin Perfume',
+    name: 'Jasmin Sunset',
     desc:
       ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
     price: 'R$14.99',
@@ -41,17 +41,17 @@ export const productData = [
 export const productDataTwo = [
   {
     img: bottle2,
-    alt: 'Donuts',
-    name: 'Doughlicious',
+    alt: 'Perfum',
+    name: 'Jasmin Perfum',
     desc:
-      'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
+      'Belgian chocolate glazed smelt covered in icing with sprinkles on top',
     price: 'R$9.99',
     button: 'Add to Cart'
   },
   {
     img: bottle1,
-    alt: 'Ice Cream',
-    name: 'Caramel Wonder',
+    alt: 'Jasmin Perfum',
+    name: 'Jasmin Perfum',
     desc:
       'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
     price: 'R$12.99',
