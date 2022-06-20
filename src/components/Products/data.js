@@ -5,8 +5,10 @@ import sweet1 from '../../images/sweet3.jpg';
 import sweet2 from '../../images/sweet-2.jpg';
 import sweet3 from '../../images/sweet-3.jpg';
 
-import bottle1 from '../../images/earthen-bottle.jpg';
-import bottle2 from '../../images/nomad-bottle.jpg';
+// import bottle1 from '../../images/earthen-bottle.jpg';
+import bottle1 from '../../images/newbottle-1.png';
+// import bottle2 from '../../images/nomad-bottle.jpg';
+import bottle2 from '../../images/newbottle-2.jpg';
 
 export const productData = [
   {

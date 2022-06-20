@@ -26,7 +26,7 @@ const Hero = () => {
           {/*<HeroH1>Perfume relaxante</HeroH1>*/}
           {/* <HeroH1>Perfume no pique laxante 😎</HeroH1> */}
           {/* <HeroP>Jasmin</HeroP> */}
-          <HeroH1>Jasmin</HeroH1>
+          <HeroH1>Jasmin Produtos</HeroH1>
           <HeroP>pequenas pétalas, grandes experiências</HeroP>
           {/*<HeroP>Relaxamento em 60 segundos</HeroP>*/}
           {/* <HeroP>Relaxamento em 60 segundos</HeroP> */}

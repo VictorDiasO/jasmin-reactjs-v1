@@ -50,7 +50,9 @@ export const HeroH1 = styled.h1`
 
 export const HeroP = styled.p`
   font-size: clamp(1.5rem, 2.0vw, 3rem);
+  font-weight: 100;
   margin-bottom: 2rem;
+  font-family: sans-serif;
   /* letter-spacing: px; */
 `;
 
